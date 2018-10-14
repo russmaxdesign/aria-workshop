@@ -1,60 +1,60 @@
-# Introduction to ARIA workshop resources
+# HTML5, Accessible forms and ARIA
+
+This repo contains slides and exercises for the "HTML5, Accessible forms and ARIA" workshop run by Russ Weakley.
 
 This workshop takes a detailed look at WAI ARIA including what it is and why it is important for all front-end developers to understand. This workshop is designed for anyone who builds or tests complex web applications. The workshop includes a wide range of hands-on exercises which are HTML-based, so a basic understanding of HTML is required.
 
+These materials can be out together in different ways, to create a single-day or two-day workshop.
 
-## Workshop slides
+## Course outline
 
-- pdf/0300-accessibility.pdf
-- pdf/0301-aria-introduction.pdf
-- pdf/0302-aria-roles.pdf
-- pdf/0303-aria-states-properties.pdf
+### Introduction
 
+- **0101: Introduction to the workshop**
 
-## Exercises
+### HTML5
 
-- exercise01: Using ARIA to create fake checkbox
-- exercise02: Providing extra context
-- exercise03: Creating a radio-group
-- exercise04: Using landmark roles
-- exercise05: Exploring disabled, invalid and hidden
-- exercise06: Adding live regions to pages
-- exercise07: Menubar
-- exercise08: In-page tabs
+- **0201: HTML 5 Introduction**
+    - Exercise 01: Simplifying HTML
+    - Exercise 02: Changing an HTML page
+- **0202: HTML 5 Structural**
+    - exercise 03: Adding HTML5 structural
+- **0203: HTML 5 Forms**
+    - Exercise 04: Exploring HTML5 forms
 
-## Resources
+### Accessible components
 
-#### W3C links
+- **0301: Introduction to Accessibility**
+    - Exercise 01a: Using keyboard-only
+    - Exercise 01b: VoiceOver
+    - Exercise 01c: NVDA
+- **0302: Accessible forms**
+    - Exercise 02: Using the label, fieldset and legend elements. 
+- **0303: Accessible form instructions**
+    - Exercise 03: Form Instructions
+- 0304: Accessible required fields
+    - Exercise 04: Required fields
+- **0305: Accessible form errors**
+    - Exercise 5a: Inside the label
+    - Exercise 5b: Using aria-describedby
+    - Exercise 5c: Form error
+- **0306: Accessible JavaScript**
+- **0307: Accessible modals**
+- **0308: Accessible dropdowns**
+- **0309: Accessible autocomplete**
 
-- [WAI-ARIA Overview](https://www.w3.org/WAI/intro/aria)
-- [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
-- [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria-1.1/)
-- [WAI-ARIA 1.0 User Agent Implementation Guide](https://www.w3.org/TR/wai-aria-implementation/)
-- [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
-- [WAI-ARIA 1.0 Primer](https://www.w3.org/TR/wai-aria-primer/)
-- [Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap)](https://www.w3.org/TR/wai-aria-roadmap/)
-- [Using WAI-ARIA](https://www.w3.org/TR/wai-aria/usage)
-- [Using ARIA](https://www.w3.org/TR/using-aria/)
+### ARIA
 
-#### APIs
-
-- [Accessibility APIs: A Key To Web Accessibility](https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/)
-- [Accessibility API](http://whatsock.com/training/)
-
-#### The Accessibility tree
-
-- [Today, I learned about the Accessibility Tree](https://libux.co/today-learned-accessibility-tree/?platform=hootsuite)
-- [The Browser Accessibility Tree](https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/)
-- [The Accessibility Tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
-
-#### General
-
-- [WAI-ARIA - an introduction to accessible rich internet applications](https://www.slideshare.net/redux/waiaria-an-introduction-to-accessible-rich-internet-applications-workshop)
-- [aViewer intro](https://www.paciellogroup.com/blog/2013/03/aviewer-2013/)
-- [If you use the WAI-ARIA role “application”, please do so wisely!](https://www.marcozehe.de/2012/02/06/if-you-use-the-wai-aria-role-application-please-do-so-wisely/)
-- [aria-labelledby vs aria-label](https://www.symphonious.net/2010/12/07/aria-labelledby-vs-aria-label/)
-
-
-## License
+- **0401: ARIA introduction**
+    - Exercise 1: Fixing a fake checkbox
+    - Exercise 2: Providing extra context for buttons
+- **0402: ARIA roles**
+    - Exercise 3: The radiogroup attribute
+    - Exercise 4: Landmark roles
+- **0403: ARIA states and properties**
+    - Exercise 5: Disabled, Invalid, Hidden
+    - Exercise 6: Live regions
+    - Exercise 7: Menubar
+    - Exercise 8: Tab panel
 
 See [Licence information](LICENCE) for use.
