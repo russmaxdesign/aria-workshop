@@ -49,12 +49,15 @@ These materials can be out together in different ways, to create a single-day or
     - Exercise 1: Fixing a fake checkbox
     - Exercise 2: Providing extra context for buttons
 - **0402: ARIA roles**
-    - Exercise 3: The radiogroup attribute
-    - Exercise 4: Landmark roles
+    - Exercise 3: Tab, tabpanel tablist
+    - Exercise 4: The radiogroup attribute
+    - Exercise 5: Presentation and None
+    - Exercise 6: Landmark roles
+    - Exercise 7: Alert and Status
+    - Exercise 8: Alertdialog
 - **0403: ARIA states and properties**
-    - Exercise 5: Disabled, Invalid, Hidden
-    - Exercise 6: Live regions
-    - Exercise 7: Menubar
-    - Exercise 8: Tab panel
+    - Exercise 9: Disabled, Invalid, Hidden
+    - Exercise 10: Live regions
+    - Exercise 11: Menubar
 
 See [Licence information](LICENCE) for use.
